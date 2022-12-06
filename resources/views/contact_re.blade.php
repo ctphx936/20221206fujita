@@ -72,8 +72,8 @@
   </table>
      <div class="submit"><input class="btn" type="submit" value="送信"> </div>
 <!--     <div class="reset"><a href="#" onclick="history.back(-1);return false;">修正する</a></div>-->
-<!--     <button name="back" type="submit" value="true">修正する</button> -->
-     <div class="submit"> <a  href="javascript:history.back();"> 修正する</a> </div>
+      <br>
+      <div class="submit"><button class="btn2" name="back" type="submit" value="true">修正する</button> </div>
 </form>
 </div>
 
